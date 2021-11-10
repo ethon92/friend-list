@@ -1,0 +1,16 @@
+/* 愛心大小與顏色 */
+.fa-heart{
+  font-size: 25px;
+  color: crimson;
+}
+
+/* 背景顏色 */
+body{
+  background-color: #EEF4F7
+}
+
+/* 每張人物資料卡邊框設定 */
+.card{
+  border: 1px solid rgba(238, 244, 247, 0.3);
+  border-radius: 25px;
+}
